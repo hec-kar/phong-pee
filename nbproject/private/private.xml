@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/models/User.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/cart.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/CartServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/models/Product.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_body.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/Database.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/OrderDetailDao.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/utils/API.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_admin_upate_product.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/ShopDao.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/RegisterServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_slide.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/UserDao.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/admin_product.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_cart.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_orderShopList.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/impl/OrderImpl.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/AdminProductServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/impl/ShopImpl.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/impl/UserImpl.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/models/Order.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/home.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/ProductDao.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_register.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_nav.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/models/OrderDetail.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/dao/OrderDao.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/utils/Constants.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/admin_home.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_admin_nav.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/driver/MySQLDriver.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/PaymentServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/login.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_login.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_footer.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/impl/ProductImpl.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/ProductServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/inc/_admin_product.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/logout.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/register.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/AdminServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/LoginServlet.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/impl/OrderDetailImpl.java</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/web/views/product_page.jsp</file>
+            <file>file:/C:/Users/ngoti/OneDrive/Documents/NetBeansProjects/phongpee/src/java/ntphong/data/web/HomeServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
